@@ -51,3 +51,14 @@ pyinstaller --onefile --noconsole ^
 --add-data "interfaz_grafica;interfaz_grafica" ^
 --add-data "modulos;modulos" ^
 main.py
+######################################################################
+## 🖼️ Capturas de pantalla
+
+### Pantalla de Login
+![Login](login.png)
+
+### Registro de Asistencia
+![Registro](registro.png)
+
+### Reporte Institucional
+![Reporte](reporte.png)
