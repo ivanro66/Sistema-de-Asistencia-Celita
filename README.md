@@ -1,3 +1,5 @@
+![Sistema de Asistencia Celita](Banner celita.png)
+
 📄 SISTEMA DE ASISTENCIA CELITA
 Versión 1.0 | Desarrollado por T.S.U. Iván Romero
 Dirección de Tecnología e Informática
